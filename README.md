@@ -28,6 +28,7 @@ Es mi marca de divulgación y formación en epidemiología hospitalaria basada e
 - Instagram: https://www.instagram.com/epidemiadedatos/
 - LinkedIn: https://www.linkedin.com/in/celedonioepidemiadedatos/
 - YouTube: https://www.youtube.com/@celedonio-epi-IA
+- ORCID: https://orcid.org/0009-0003-0910-4287
 
 ## Proyectos abiertos
 
