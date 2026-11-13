@@ -1,13 +1,13 @@
 # Dr. Celedonio Gómez Muñoz
 
-**Médico epidemiólogo · Epidemiología hospitalaria y medicina preventiva · México**
+**Médico epidemiólogo · Epidemiología hospitalaria y PROA · México**
 
 > Convierto la complejidad epidemiológica en decisiones que protegen pacientes.
 > *Del dato al cuidado.*
 
 ## Quién soy
 
-Soy médico especialista en epidemiología y medicina preventiva. Soy Jefe de Epidemiología y Medicina Preventiva en el CEQ Dr. Alberto Pisanty Ovadia (ISSSTE), un hospital de segundo nivel en la Ciudad de México. Tengo la Alta Especialidad en Epidemiología Hospitalaria por la UNAM y el Hospital General Dr. Manuel Gea González.
+Soy médico especialista en salud pública. Jefe de Epidemiología y Medicina Preventiva en la CEQ Pisanty (ISSSTE), un hospital de segundo nivel en la Ciudad de México. Tengo la Alta Especialidad en Epidemiología Hospitalaria por la UNAM y el Hospital General Dr. Manuel Gea González.
 
 Mi trabajo es la **inteligencia epidemiológica hospitalaria**: usar los datos de vigilancia, laboratorio y consumo de antimicrobianos para tomar mejores decisiones clínicas y de gestión.
 
