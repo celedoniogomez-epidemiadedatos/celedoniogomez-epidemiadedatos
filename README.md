@@ -29,11 +29,14 @@ Es mi marca de divulgación y formación en epidemiología hospitalaria basada e
 - LinkedIn: https://www.linkedin.com/in/celedonioepidemiadedatos/
 - YouTube: https://www.youtube.com/@celedonio-epi-IA
 
-## Qué voy a publicar aquí
+## Proyectos abiertos
 
-Repositorios abiertos, sin datos de pacientes ni información institucional sensible:
+- [PROA-ITU: optimización de antimicrobianos en infección de vías urinarias no complicada en primer nivel](https://github.com/celedoniogomez-epidemiadedatos/proa-itu-primer-nivel): algoritmo, seis indicadores, datos ficticios y tablero de ejemplo. Licencia CC BY 4.0.
 
-- Metodología y estructura de tableros PROA (stewardship de antimicrobianos)
+## Próximamente
+
+Más repositorios abiertos, sin datos de pacientes ni información institucional sensible:
+
 - Plantillas de vigilancia de IAAS, listas de verificación de PCI e indicadores
 - Herramientas y scripts de análisis para epidemiología hospitalaria
 
